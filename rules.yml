@@ -1,0 +1,36 @@
+- type: embed
+
+  embeds:
+    - description: Here we can chat and have fun! You can come down to texture-suggestions if you have any suggestions for your favourite texture packs. If you enjoy my streams or want to learn how to do stuff with texture packs I can definatly help you out! Our mods and admins and very nice so if you have any questions ask them anything you like. Welcome again and I hope you ahve a great time!
+      title: Welcome to TB's textures!!
+      color: 0x234f1e
+
+    - description: The rules here in TB's textures are reasonable and easy to follow. Everyone is treated the exact same. In this server we protect the chill and fun vibes and any toxicity will not be tolerated. These easy rules should not be hard to follow and are here to make sure this place is a comfortable safe place for everyone.
+      title: Rules
+      color: 0x481f01
+
+- type: rules
+  colors: 
+    - 0xff6961
+    - 0xffb480 
+    - 0xf8f38d 
+    - 0x42d6a4 
+    - 0x08cad1 
+    - 0x59adf6 
+    - 0x9d94ff 
+    - 0xc780e8
+  rules: 
+    Be nice: >-
+      Everyone loves to be treated nice. If we are all nice and conciserate of everyone then we will not have any problems😊
+    
+    Discrimination is forbidden: >-
+      I do not care if it's race, culture, physical characteristics, religion, background or anything we DO NOT allow it. This is not a place to be discriminating others. 
+- type: roles
+  id: packs
+  title: is this the title?
+  description: get ya roles buddy becuase this is the description.
+  template: "{EMOJI}{MENTION}"
+  roles:
+    1070700583939477515: 
+      description: Pick the texturepack that you want to be notified about.
+      emoji: ⚔️
