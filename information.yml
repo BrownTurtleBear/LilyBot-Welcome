@@ -63,19 +63,19 @@
     1067647173921079357:
       description: Pyrofishing
       emoji: 🐟
-    id: other
-    title: What other things are you interested in?
-    description: Come and check out my streams!
-    colour: 0x9ba4a9
-    template: "{EMOJI}{MENTION}"
-    roles:
-      1059369256938115143:
-        description: Discord
-        emoji: 🎮
-      1059369171072319518:
-        description: Streams
-        emoji: <:twitch:1072287714164080732>
-      1069439934454308916:
-        description: Events
-        emoji: 🎉
+  id: other
+  title: What other things are you interested in?
+  description: Come and check out my streams!
+  colour: 0x9ba4a9
+  template: "{EMOJI}{MENTION}"
+  roles:
+    1059369256938115143:
+      description: Discord
+      emoji: 🎮
+    1059369171072319518:
+      description: Streams
+      emoji: <:twitch:1072287714164080732>
+    1069439934454308916:
+      description: Events
+      emoji: 🎉
       
