@@ -81,3 +81,23 @@
       description: Events
       emoji: 🎉
 
+- type: roles
+  id: pronouns
+  title: What are your pronouns?
+  description: People will respect your pronouns if you respect their's
+  color: 0x9ba4a9
+  template: "{EMOJI}{MENTION}"
+  roles:
+    1072299457338675230:
+      description: She/Her
+      emoji: 🔴
+    1072299414858760213:
+      description: He/Him
+      emoji: 🟡
+    1072299492709257267:
+      description: They/Them
+      emoji: 🔵
+    1072299526603411526:
+      description: Other
+      emoji: 🟢
+
