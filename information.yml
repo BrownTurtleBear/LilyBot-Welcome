@@ -63,6 +63,8 @@
     1067647173921079357:
       description: Pyrofishing
       emoji: 🐟
+      
+- type: roles
   id: other
   title: What other things are you interested in?
   description: Come and check out my streams!
@@ -78,4 +80,4 @@
     1069439934454308916:
       description: Events
       emoji: 🎉
-      
+
