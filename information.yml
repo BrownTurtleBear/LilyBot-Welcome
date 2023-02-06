@@ -1,0 +1,81 @@
+- type: embed
+  embeds:
+    - description: Here we can chat and have fun! You can come down to texture-suggestions if you have any suggestions for your favourite texture packs. If you enjoy my streams or want to learn how to do stuff with texture packs I can definatly help you out! Our mods and admins and very nice so if you have any questions ask them anything you like. Welcome again and I hope you ahve a great time!
+      title: Welcome to TB's textures!!
+      color: 0x4f5966
+
+- type: links
+  title: My Links
+  template: "[{TEXT}]({URL})"
+  color: 0x9ba4a9
+  links:
+    Twitch <:twitch:1072287714164080732>: https://m.twitch.tv/brownturtlebear/home
+    Modrinth <:modrinth:1072287263825870899>: https://modrinth.com/user/BrownTurtleBear
+
+- type: embed
+  embeds:
+    - description: The rules here in TB's textures are reasonable and easy to follow. Everyone is treated the exact same. In this server we protect the chill and fun vibes and any toxicity will not be tolerated. These easy rules should not be hard to follow and are here to make sure this place is a comfortable safe place for everyone.
+      title: Rules
+      color: 0x6d767e
+
+- type: rules
+  colors: 
+    - 0xff6961
+    - 0xffb480 
+    - 0xf8f38d 
+    - 0x42d6a4 
+    - 0x08cad1 
+    - 0x59adf6 
+    - 0x9d94ff 
+    - 0xc780e8
+  rules: 
+    Be nice: 
+      Everyone loves to be treated nice. If we are all nice and conciserate of everyone then we will not have any problems. If we do have a problem then you will be muted for a specific time or will be banned from the server. These rules are subject to change so keep checking back to these rules so that you always know what we expect from you.
+    
+    Discrimination is forbidden: 
+      I do not care if it's race, culture, physical characteristics, religion, background or anything we DO NOT allow it. This is not a place to be discriminating others.
+    
+    We support LGBTQIA+ 🏳️‍🌈:
+      In this server we welcome everyone including poeple that are in the LGBTQIA+ community. We will respect everyones prefrences and this ofiously includes pronouns. (Pronoun rolls below)
+
+    Mind your language:
+      We are pretty chill about swearing in chat. Do not project any sort of offensive names or words to anyone. Have a good fucking day.
+
+    Mods are fair and upfront:
+      Our mod team is fair and honest with everyone. We value each and everyone of you. If you are to be punished you will be punished accordingly and if you do somthing good you will be praised. Check out <#punishments> to see all of the punishments you will get when you do an offence. If you feel like a mod is treating you unfairly then DM TurtleBear or any of the Admins.
+
+- type: roles
+  id: packs
+  title: What texturepack do you follow?
+  description: Thank you for using them!
+  color: 0x9ba4a9
+  template: "{EMOJI}{MENTION}"
+  roles:
+    1056904473743724555: 
+      description: Zelda Breath of the Wild
+      emoji: ⚔️
+    1056904288472924230:
+      description: Bright Ore
+      emoji: ☀
+    1056904372791033937:
+      description: Dark GUI
+      emoji: 🌑
+    1067647173921079357:
+      description: Pyrofishing
+      emoji: 🐟
+    id: other
+    title: What other things are you interested in?
+    description: Come and check out my streams!
+    colour: 0x9ba4a9
+    template: "{EMOJI}{MENTION}"
+    roles:
+      1059369256938115143:
+        description: Discord
+        emoji: 🎮
+      1059369171072319518:
+        description: Streams
+        emoji: <:twitch:1072287714164080732>
+      1069439934454308916:
+        description: Events
+        emoji: 🎉
+      
