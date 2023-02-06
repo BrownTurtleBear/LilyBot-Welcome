@@ -68,7 +68,7 @@
   id: other
   title: What other things are you interested in?
   description: Come and check out my streams!
-  colour: 0x9ba4a9
+  color: 0x9ba4a9
   template: "{EMOJI}{MENTION}"
   roles:
     1059369256938115143:
