@@ -9,8 +9,8 @@
   template: "[{TEXT}]({URL})"
   color: 0x9ba4a9
   links:
-    Twitch <:twitch:1072287714164080732>: https://m.twitch.tv/brownturtlebear/home
-    Modrinth <:modrinth:1072287263825870899>: https://modrinth.com/user/BrownTurtleBear
+    <:twitch:1072287714164080732> Twitch: https://m.twitch.tv/brownturtlebear/home
+    <:modrinth:1072287263825870899> Modrinth: https://modrinth.com/user/BrownTurtleBear
 
 - type: embed
   embeds:
@@ -42,7 +42,7 @@
       We are pretty chill about swearing in chat. Do not project any sort of offensive names or words to anyone. Have a good fucking day.
 
     Mods are fair and upfront:
-      Our mod team is fair and honest with everyone. We value each and everyone of you. If you are to be punished you will be punished accordingly and if you do somthing good you will be praised. Check out <#punishments> to see all of the punishments you will get when you do an offence. If you feel like a mod is treating you unfairly then DM TurtleBear or any of the Admins.
+      Our mod team is fair and honest with everyone. We value each and everyone of you. If you are to be punished you will be punished accordingly and if you do somthing good you will be praised. Check out #punishments to see all of the punishments you will get when you do an offence. If you feel like a mod is treating you unfairly then DM TurtleBear or any of the Admins.
 
 - type: roles
   id: packs
