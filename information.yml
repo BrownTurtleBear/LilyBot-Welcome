@@ -100,20 +100,5 @@
     1072299526603411526:
       description: Other
       emoji: 🟢
-
-- type: embed
-  embeds:
-  - description: Use these in <#1060363387063763009>
-    title: Lets talk commands...
-    color: 0x4f5966
-    - fields:
-        inline: yes
-        name: <@876278900836139008>
-        value: >-
-          /commmand-list - Read the list of commands
-        
-          /nickname request - Change your nickname!
-        
-          /manual-report - If you see a message that is not following the rules then report it using this
     
     
