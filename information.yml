@@ -104,7 +104,7 @@
 - type: embed
   embeds:
   - description: >-
-    Lets talk commands. Use these in <#1060363387063763009>
+    Use these in <#1060363387063763009>
     
     <@&1072291121377591319>
     /commmand-list - Read the list of commands
@@ -120,6 +120,9 @@
     /help - Read the list of commands
     /top - list of the top chaters of the server (<@778870701871464488> will never be beaten haha)
     /rank - See your stats and others
+    title: Lets talk commands. 
+    colour: 0x4f5966
+  
 
     
     
