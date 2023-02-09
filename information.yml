@@ -101,3 +101,25 @@
       description: Other
       emoji: 🟢
 
+- type: embed
+  embeds:
+  - description: >-
+    Lets talk commands. Use these in <#1060363387063763009>
+    
+    <@&1072291121377591319>
+    /commmand-list - Read the list of commands
+    /nickname request - Change your nickname!
+    /manual-report - If you see a message that is not following the rules then report it using this
+    
+    <@510016054391734273>
+    c!help - Read the list of commands
+    c!server - See the high score for the <#1067698179014930492> game
+    c!user [@user/userId] - To see your high score or other people's high score
+    
+    <@&1067691947889786902>
+    /help - Read the list of commands
+    /top - list of the top chaters of the server (<@778870701871464488> will never be beaten haha)
+    /rank - See your stats and others
+
+    
+    
