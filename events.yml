@@ -4,10 +4,36 @@
   embeds:
     - description:
         Welcome to the first ever Event of TB's Textures!!
-
-        This Event will be pixel art and the art is going to be for the Pyro fishing texturepack. 
         
-        The Fish you are going to draw is a Random fish.  
-        Whoever can draw the best random fish will win the fishy role. 
+
+        This Event will be pixel art and the art is going to be for the 🐟Pyro fishing texturepack🎣 
+        
+        
+        TThe theme of your fish is...
+        
+        
+        **Random Fish**
+        
+        
+        Whoever can draw the best random fish will win the <@&1068043682202259467> role. Very nice!<:bear_laughing:1064526932936507432>
       title: Event No.1
       color: 0xff6961
+      
+    - description:
+        - Up to 2 submissions. 
+        
+        - The Dimentions of the art should be 16x. However take a big screenshot when submitting so that your image isnt tiny.
+        
+        - The event will go for untill <t:1678008600:f>. Make sure to submit before that because the chnanel will be closed after that time.
+        
+        - Anyone can react to the ✅ emoji if you like it the most. You re allowed to react to more then one submission. Make sure to react to your own one!
+      title: Rules!
+      colour: 0xff6961
+
+- type: roles
+  id: little-fishy
+  
+  roles:
+    1077917365683105812: 
+      description: I want to do the event!
+      emoji: 🐟
