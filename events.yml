@@ -32,8 +32,12 @@
 
 - type: roles
   id: little-fishy
+  title: Do you want to enter the event?
+  description: Do your best! The winners prize is <@&1068043682202259467>
+  color: 0xff6961
+  template: "{EMOJI}{MENTION} **|** {DESCRIPTION}"
   
   roles:
     1077917365683105812: 
-      description: I want to do the event!
+      description: Let me enter!
       emoji: 🐟
