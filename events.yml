@@ -28,7 +28,7 @@
         
         4. Anyone can react to the ✅ emoji if you like it the most. You re allowed to react to more then one submission. Make sure to react to your own one!
       title: Rules!
-      colour: 0xff6961
+      color: 0xff6961
 
 - type: roles
   id: little-fishy
