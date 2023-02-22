@@ -1,0 +1,13 @@
+- type: embed
+  text: Mention
+
+  embeds:
+    - description: >-
+        Welcome to the first ever Event of TB's Textures!!
+
+        This Event will be pixel art and the art is going to be for the Pyro fishing texturepack. 
+        
+        The Fish you are going to draw is a Random fish.  
+        Whoever can draw the best random fish will win the fishy role. 
+      title: Event No.1
+      colour: 0xff6961
